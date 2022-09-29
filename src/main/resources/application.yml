@@ -16,3 +16,6 @@ jpa:
   show-sql: true
   defer-datasource-initialization: true
   database-platform: org.hibernate.dialect.H2Dialect
+mvc:
+  patchmatch:
+    matching-strategy: ant_patch_matcher
