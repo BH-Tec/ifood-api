@@ -12,7 +12,12 @@
   <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/df88c0b6-cb03-4b23-88ce-9bfbbc2571ca"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/df88c0b6-cb03-4b23-88ce-9bfbbc2571ca.svg" alt="wakatime"></a>
 </p>
 
-![Preview](./assets/preview.jpg)
+<p align="center">
+  <img src="./assets/preview.jpg" width="500px">
+</p>
+
+
+
 
 ## 💻 Projeto
 
